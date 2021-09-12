@@ -101,14 +101,14 @@ h2
     font-size: 20px;
     padding: 20px;
     top: 5em;
-    min-width: 400px;
+    min-width: 350px;
 }
 
 p
 {
     text-align: justify;
-    padding: 10px 20px;
-    font-size: 20px;
+    padding: 10px 15px;
+    font-size: 19px;
     color: #bfbfbf;
     background-color: rgba(0, 0, 0, 0.3);
 }
